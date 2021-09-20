@@ -4,8 +4,8 @@
     font-family: Century Gothic;
 }
 
-body{
-    background-image:url('class.jpg');
+body{ 
+   background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(class.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
